@@ -203,9 +203,6 @@
     <ClInclude Include="sph\sph_echo.h">
       <Filter>Header Files\sph</Filter>
     </ClInclude>
-    <ClInclude Include="sph\sph_fugue.h">
-      <Filter>Header Files\sph</Filter>
-    </ClInclude>
     <ClInclude Include="sph\sph_groestl.h">
       <Filter>Header Files\sph</Filter>
     </ClInclude>
