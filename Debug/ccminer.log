@@ -1,0 +1,1 @@
+﻿C:\Users\micha\source\repos\Michael-Fight\ccminer\ccminer.vcxproj(54,5): error MSB4019: The imported project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\CUDA 5.5.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
